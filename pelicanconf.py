@@ -3,7 +3,7 @@
 
 AUTHOR = 'Ceri Xia'
 SITENAME = 'My Cool Site'
-SITEURL = ''
+SITEURL = 'https://csportat.github.io/CMPUT404_lab5_PelicanAndGitHubPages/'
 
 PATH = 'content'
 
